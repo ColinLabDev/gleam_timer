@@ -1,5 +1,4 @@
-# Gleam Timer
-![alt text](https://i.imgur.com/jsHPY7E.png) **Install**
+# Install Gleam Timer ![alt text](https://i.imgur.com/jsHPY7E.png) 
 
 [Gleam Timer](https://greasyfork.org/scripts/435953-gleam-timer/code/Gleam%20Timer.user.js)
 
