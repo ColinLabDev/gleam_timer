@@ -4,10 +4,10 @@
 // @version 1.0
 // @description No more waiting for the timer
 // @author Saulios
-// @icon http://i.imgur.com/6PuVE2l.png
+// @icon https://i.imgur.com/jsHPY7E.png
 // @match *gleam.io/*
-// @updateURL
-// @downloadURL
+// @updateURL https://raw.githubusercontent.com/ColinLabDev/gleam_timer/main/gleam_timer_beautified.js
+// @downloadURL https://raw.githubusercontent.com/ColinLabDev/gleam_timer/main/gleam_timer_beautified.js
 // @grant none
 // ==/UserScript==
 
