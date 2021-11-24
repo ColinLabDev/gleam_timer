@@ -1,7 +1,6 @@
 // ==UserScript==
 // @name Gleam Timer
-// @namespace Light Speed
-// @version 2.0
+// @version 1.1
 // @description No more waiting for the timer
 // @author Saulios
 // @icon https://i.imgur.com/jsHPY7E.png
@@ -11,15 +10,12 @@
 // @downloadURL https://raw.githubusercontent.com/ColinLabDev/gleam_timer/main/gleam_timer_beautified.js
 // ==/UserScript==
 
-//Paste the total contents of this file (Ctrl + A and Ctrl + C) into your browser console (F12 or Ctrl + Shift + J)
-//when you are on an Gleam.io page.
+// This can be used to speed up the timer on Gleam.io tasks. You can instantly complete any task related to time without waiting.
+// There will be a circle in the top left corner of the page with the text x1. You can click on it or press Control + 1 on your keyboard.
+// A pop-up message will appear. Here you can set how fast the time for the tasks should go.
+// The default setting is 1, which is the normal time. Recommended time multiplier: 1000 (1000 times faster)
 
-//This can be used to speed up the timer on Gleam.io tasks. You can instantly complete any task related to time without waiting.
-//There will be a circle in the top left corner of the page with the text x1. You can click on it or press Control + 1 on your keyboard.
-//A pop-up message will appear. Here you can set how fast the time for the tasks should go.
-//The default setting is 1, which is the normal time. Recommended time multiplier: 1000 (1000 times faster)
-
-//Updated: November 14, 2021
+// Updated: November 14, 2021
 
 
 ! function (t, e) {
