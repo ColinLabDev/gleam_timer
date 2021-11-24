@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name Gleam Timer
 // @namespace Light Speed
-// @version 1.0
+// @version 2.0
 // @description No more waiting for the timer
 // @author Saulios
 // @icon https://i.imgur.com/jsHPY7E.png
@@ -9,7 +9,6 @@
 // @match *gleam.io/*
 // @updateURL https://raw.githubusercontent.com/ColinLabDev/gleam_timer/main/gleam_timer_beautified.js
 // @downloadURL https://raw.githubusercontent.com/ColinLabDev/gleam_timer/main/gleam_timer_beautified.js
-// @grant none
 // ==/UserScript==
 
 //Paste the total contents of this file (Ctrl + A and Ctrl + C) into your browser console (F12 or Ctrl + Shift + J)
