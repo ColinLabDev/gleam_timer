@@ -6,8 +6,8 @@
 // @icon https://i.imgur.com/jsHPY7E.png
 // @homepage https://github.com/ColinLabDev/gleam_timer/
 // @match *gleam.io/*
-// @updateURL https://raw.githubusercontent.com/ColinLabDev/gleam_timer/main/gleam_timer_beautified.js
-// @downloadURL https://raw.githubusercontent.com/ColinLabDev/gleam_timer/main/gleam_timer_beautified.js
+// @updateURL https://raw.githubusercontent.com/ColinLabDev/gleam_timer/main/gleam_timer_beautified.user.js
+// @downloadURL https://raw.githubusercontent.com/ColinLabDev/gleam_timer/main/gleam_timer_beautified.user.js
 // ==/UserScript==
 
 // This can be used to speed up the timer on Gleam.io tasks. You can instantly complete any task related to time without waiting.
