@@ -1,13 +1,14 @@
 // ==UserScript==
 // @name Gleam Timer Lite
-// @version 1.1
-// @description No more waiting for the timer
-// @author Saulios
-// @icon https://i.imgur.com/jsHPY7E.png
-// @homepage https://github.com/ColinLabDev/gleam_timer/
-// @match *gleam.io/*
-// @updateURL https://raw.githubusercontent.com/ColinLabDev/gleam_timer/main/gleam_timer.user.js
-// @downloadURL https://raw.githubusercontent.com/ColinLabDev/gleam_timer/main/gleam_timer.user.js
+// @version      1.2
+// @author       Saulios
+// @description  No more waiting for the timer
+// @icon         https://i.imgur.com/jsHPY7E.png
+// @homepage     https://github.com/ColinLabDev/gleam_timer/
+// @updateURL    https://github.com/ColinLabDev/gleam_timer/raw/main/gleam_timer.user.js
+// @supportURL   https://github.com/ColinLabDev/gleam_timer/issues
+// @match        https://gleam.io/*
+// @grant        none
 // ==/UserScript==
 
 // This can be used to speed up the timer on Gleam.io tasks. You can instantly complete any task related to time without waiting.
