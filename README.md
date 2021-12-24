@@ -21,6 +21,6 @@
 
 * [Install Lite](https://greasyfork.org/scripts/435954-gleam-timer-lite/code/Gleam%20Timer%20Lite.user.js) *from greasyfork.org*
 
-* [Install](https://raw.githubusercontent.com/ColinLabDev/gleam_timer/main/gleam_timer_beautified.user.js) *from github.com*
+* [Install](https://github.com/ColinLabDev/gleam_timer/raw/main/gleam_timer_beautified.user.js) *from github.com*
 
-* [Install Lite](https://raw.githubusercontent.com/ColinLabDev/gleam_timer/main/gleam_timer.user.js) *from github.com*
+* [Install Lite](https://github.com/ColinLabDev/gleam_timer/raw/main/gleam_timer.user.js) *from github.com*
