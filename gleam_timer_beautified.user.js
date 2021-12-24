@@ -5,7 +5,7 @@
 // @description  No more waiting for the timer
 // @icon         https://i.imgur.com/jsHPY7E.png
 // @homepage     https://github.com/ColinLabDev/gleam_timer/
-// @updateURL    https://github.com/ColinLabDev/gleam_timer/raw/main/gleam_timer_beautified.js
+// @updateURL    https://github.com/ColinLabDev/gleam_timer/raw/main/gleam_timer_beautified.user.js
 // @supportURL   https://github.com/ColinLabDev/gleam_timer/issues
 // @match        https://gleam.io/*
 // @grant        none
