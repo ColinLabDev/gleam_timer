@@ -17,9 +17,9 @@
 
 #### Step 2: UserScript
 
-* [Install]() *from greasyfork.org*
+* [Install](https://greasyfork.org/scripts/437522-gleam-timer/code/Gleam%20Timer.user.js) *from greasyfork.org*
 
-* [Install Lite]() *from greasyfork.org*
+* [Install Lite](https://greasyfork.org/scripts/437523-gleam-timer-lite/code/Gleam%20Timer%20Lite.user.js) *from greasyfork.org*
 
 * [Install](https://github.com/ColinLabDev/gleam_timer/raw/main/gleam_timer_beautified.user.js) *from github.com*
 
